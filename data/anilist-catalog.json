@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-13T23:02:42.378139+00:00",
+  "fetched_at": "2026-10-14T21:53:37.164594+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -2342,7 +2342,7 @@
         },
         "chapters": 110,
         "volumes": 14,
-        "averageScore": 84,
+        "averageScore": 85,
         "siteUrl": "https://anilist.co/manga/94970"
       },
       {
@@ -4859,35 +4859,6 @@
         "siteUrl": "https://anilist.co/manga/114880"
       },
       {
-        "id": 117526,
-        "title": {
-          "romaji": "Jiguang",
-          "english": null,
-          "native": "极光"
-        },
-        "description": "Our love is as brilliant as the aurora borealis.\n",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117526-H6F1xG7UHya5.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117526-H6F1xG7UHya5.jpg"
-        },
-        "genres": [
-          "Romance",
-          "Slice of Life"
-        ],
-        "status": "FINISHED",
-        "format": "ONE_SHOT",
-        "countryOfOrigin": "CN",
-        "startDate": {
-          "year": 2020,
-          "month": 2,
-          "day": 19
-        },
-        "chapters": 1,
-        "volumes": null,
-        "averageScore": null,
-        "siteUrl": "https://anilist.co/manga/117526"
-      },
-      {
         "id": 155576,
         "title": {
           "romaji": "Zhi Zhuizhu Mengxiang de Ni",
@@ -4915,6 +4886,35 @@
         "volumes": null,
         "averageScore": null,
         "siteUrl": "https://anilist.co/manga/155576"
+      },
+      {
+        "id": 117526,
+        "title": {
+          "romaji": "Jiguang",
+          "english": null,
+          "native": "极光"
+        },
+        "description": "Our love is as brilliant as the aurora borealis.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117526-H6F1xG7UHya5.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117526-H6F1xG7UHya5.jpg"
+        },
+        "genres": [
+          "Romance",
+          "Slice of Life"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2020,
+          "month": 2,
+          "day": 19
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/117526"
       },
       {
         "id": 121605,
