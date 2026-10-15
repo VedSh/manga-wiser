@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T21:53:37.164594+00:00",
+  "fetched_at": "2026-10-15T21:40:29.719421+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -1302,6 +1302,36 @@
         "siteUrl": "https://anilist.co/manga/163824"
       },
       {
+        "id": 159441,
+        "title": {
+          "romaji": "Pick Me Up!",
+          "english": "Pick Me Up",
+          "native": "픽 미 업!"
+        },
+        "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "status": "RELEASING",
+        "format": "MANGA",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2022,
+          "month": 12,
+          "day": 28
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 84,
+        "siteUrl": "https://anilist.co/manga/159441"
+      },
+      {
         "id": 123573,
         "title": {
           "romaji": "Baekjakgaui Mangnaniga Doeeotda",
@@ -1331,36 +1361,6 @@
         "volumes": null,
         "averageScore": 78,
         "siteUrl": "https://anilist.co/manga/123573"
-      },
-      {
-        "id": 159441,
-        "title": {
-          "romaji": "Pick Me Up!",
-          "english": "Pick Me Up",
-          "native": "픽 미 업!"
-        },
-        "description": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god?\n<br><br>(Source: Tapas)",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159441-9W8201jAT9Yv.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "status": "RELEASING",
-        "format": "MANGA",
-        "countryOfOrigin": "KR",
-        "startDate": {
-          "year": 2022,
-          "month": 12,
-          "day": 28
-        },
-        "chapters": null,
-        "volumes": null,
-        "averageScore": 84,
-        "siteUrl": "https://anilist.co/manga/159441"
       },
       {
         "id": 132144,
@@ -1479,7 +1479,7 @@
         },
         "chapters": null,
         "volumes": null,
-        "averageScore": 76,
+        "averageScore": 77,
         "siteUrl": "https://anilist.co/manga/144957"
       },
       {
@@ -2725,7 +2725,7 @@
         },
         "chapters": null,
         "volumes": null,
-        "averageScore": 80,
+        "averageScore": 81,
         "siteUrl": "https://anilist.co/manga/78399"
       },
       {
