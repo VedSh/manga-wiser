@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T20:51:46.935742+00:00",
+  "fetched_at": "2026-10-18T20:58:40.368071+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -1423,36 +1423,6 @@
         "siteUrl": "https://anilist.co/manga/119174"
       },
       {
-        "id": 109957,
-        "title": {
-          "romaji": "Dubeon Saneun Ranker",
-          "english": "Second Life Ranker",
-          "native": "두번사는랭커"
-        },
-        "description": "Yeonwoo’s brother disappeared years ago, and he’s devastated to learn of his death. As he copes with his loss, he’s given a pocket watch and learns there’s more to his brother’s death: he was betrayed while competing in the Tower of the Sun God. Now it’s Yeonwoo’s turn to use the knowledge his brother left behind. Can Yeonwoo (call sign: Cain) navigate that world and gain enough power and experience to reach the top of the tower, defeating his brother’s enemies and all those who stand in his way?\n<br><br>\n(Source: Tapas)",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109957-EgJWdR7l9TBG.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109957-EgJWdR7l9TBG.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "status": "RELEASING",
-        "format": "MANGA",
-        "countryOfOrigin": "KR",
-        "startDate": {
-          "year": 2019,
-          "month": 5,
-          "day": 16
-        },
-        "chapters": null,
-        "volumes": null,
-        "averageScore": 77,
-        "siteUrl": "https://anilist.co/manga/109957"
-      },
-      {
         "id": 144957,
         "title": {
           "romaji": "Myeolmang Ihuui Segye",
@@ -1481,6 +1451,36 @@
         "volumes": null,
         "averageScore": 77,
         "siteUrl": "https://anilist.co/manga/144957"
+      },
+      {
+        "id": 109957,
+        "title": {
+          "romaji": "Dubeon Saneun Ranker",
+          "english": "Second Life Ranker",
+          "native": "두번사는랭커"
+        },
+        "description": "Yeonwoo’s brother disappeared years ago, and he’s devastated to learn of his death. As he copes with his loss, he’s given a pocket watch and learns there’s more to his brother’s death: he was betrayed while competing in the Tower of the Sun God. Now it’s Yeonwoo’s turn to use the knowledge his brother left behind. Can Yeonwoo (call sign: Cain) navigate that world and gain enough power and experience to reach the top of the tower, defeating his brother’s enemies and all those who stand in his way?\n<br><br>\n(Source: Tapas)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109957-EgJWdR7l9TBG.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109957-EgJWdR7l9TBG.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "status": "RELEASING",
+        "format": "MANGA",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 5,
+          "day": 16
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 77,
+        "siteUrl": "https://anilist.co/manga/109957"
       },
       {
         "id": 149332,
@@ -1911,7 +1911,7 @@
         },
         "chapters": 259,
         "volumes": 13,
-        "averageScore": 84,
+        "averageScore": 85,
         "siteUrl": "https://anilist.co/manga/101563"
       },
       {
@@ -4394,35 +4394,6 @@
         "siteUrl": "https://anilist.co/manga/121633"
       },
       {
-        "id": 201721,
-        "title": {
-          "romaji": "Gongjakgaui Yeokdaegeup Sindong",
-          "english": null,
-          "native": "공작가의 역대급 신동"
-        },
-        "description": "<i>Note: This is a promotional one-shot for the web novel of the same name.</i>",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201721-FtjAZ0RcPDn6.png",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201721-FtjAZ0RcPDn6.png"
-        },
-        "genres": [
-          "Action",
-          "Fantasy"
-        ],
-        "status": "FINISHED",
-        "format": "ONE_SHOT",
-        "countryOfOrigin": "KR",
-        "startDate": {
-          "year": 2019,
-          "month": 8,
-          "day": 8
-        },
-        "chapters": 1,
-        "volumes": null,
-        "averageScore": 54,
-        "siteUrl": "https://anilist.co/manga/201721"
-      },
-      {
         "id": 121337,
         "title": {
           "romaji": "Agineun Akdangeul Kiunda",
@@ -4451,6 +4422,35 @@
         "volumes": null,
         "averageScore": 58,
         "siteUrl": "https://anilist.co/manga/121337"
+      },
+      {
+        "id": 201721,
+        "title": {
+          "romaji": "Gongjakgaui Yeokdaegeup Sindong",
+          "english": null,
+          "native": "공작가의 역대급 신동"
+        },
+        "description": "<i>Note: This is a promotional one-shot for the web novel of the same name.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201721-FtjAZ0RcPDn6.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201721-FtjAZ0RcPDn6.png"
+        },
+        "genres": [
+          "Action",
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 8,
+          "day": 8
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 54,
+        "siteUrl": "https://anilist.co/manga/201721"
       },
       {
         "id": 123068,
@@ -4657,6 +4657,34 @@
         "siteUrl": "https://anilist.co/manga/98456"
       },
       {
+        "id": 53749,
+        "title": {
+          "romaji": "Dongri Tonghua",
+          "english": null,
+          "native": "冬日童话"
+        },
+        "description": "A story about a snow princess created by humans.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53749-1j9cYzZm5z9J.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53749-1j9cYzZm5z9J.jpg"
+        },
+        "genres": [
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2001,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 53,
+        "siteUrl": "https://anilist.co/manga/53749"
+      },
+      {
         "id": 111021,
         "title": {
           "romaji": "Hai Zi",
@@ -4684,34 +4712,6 @@
         "volumes": null,
         "averageScore": 60,
         "siteUrl": "https://anilist.co/manga/111021"
-      },
-      {
-        "id": 53749,
-        "title": {
-          "romaji": "Dongri Tonghua",
-          "english": null,
-          "native": "冬日童话"
-        },
-        "description": "A story about a snow princess created by humans.",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53749-1j9cYzZm5z9J.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53749-1j9cYzZm5z9J.jpg"
-        },
-        "genres": [
-          "Fantasy"
-        ],
-        "status": "FINISHED",
-        "format": "ONE_SHOT",
-        "countryOfOrigin": "CN",
-        "startDate": {
-          "year": 2001,
-          "month": null,
-          "day": null
-        },
-        "chapters": 1,
-        "volumes": null,
-        "averageScore": 53,
-        "siteUrl": "https://anilist.co/manga/53749"
       },
       {
         "id": 44712,
