@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T22:35:01.425111+00:00",
+  "fetched_at": "2026-10-20T21:48:43.766364+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -1178,7 +1178,7 @@
         },
         "chapters": null,
         "volumes": null,
-        "averageScore": 81,
+        "averageScore": 80,
         "siteUrl": "https://anilist.co/manga/120980"
       },
       {
@@ -2061,7 +2061,7 @@
         },
         "chapters": 125,
         "volumes": null,
-        "averageScore": 76,
+        "averageScore": 77,
         "siteUrl": "https://anilist.co/manga/112378"
       },
       {
@@ -5003,35 +5003,6 @@
         "siteUrl": "https://anilist.co/manga/45245"
       },
       {
-        "id": 55309,
-        "title": {
-          "romaji": "Tie Jian Chunqiu Zhi Ba Yue Shiwu",
-          "english": null,
-          "native": "鐵劍春秋之八月十五"
-        },
-        "description": "",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25309.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25309.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Romance"
-        ],
-        "status": "FINISHED",
-        "format": "ONE_SHOT",
-        "countryOfOrigin": "CN",
-        "startDate": {
-          "year": 2008,
-          "month": 8,
-          "day": 11
-        },
-        "chapters": 1,
-        "volumes": null,
-        "averageScore": null,
-        "siteUrl": "https://anilist.co/manga/55309"
-      },
-      {
         "id": 188106,
         "title": {
           "romaji": "Wo de Fuqin",
@@ -5059,6 +5030,35 @@
         "volumes": null,
         "averageScore": null,
         "siteUrl": "https://anilist.co/manga/188106"
+      },
+      {
+        "id": 55309,
+        "title": {
+          "romaji": "Tie Jian Chunqiu Zhi Ba Yue Shiwu",
+          "english": null,
+          "native": "鐵劍春秋之八月十五"
+        },
+        "description": "",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25309.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25309.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2008,
+          "month": 8,
+          "day": 11
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/55309"
       },
       {
         "id": 184247,
