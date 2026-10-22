@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T21:48:43.766364+00:00",
+  "fetched_at": "2026-10-22T21:52:12.706439+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -4657,34 +4657,6 @@
         "siteUrl": "https://anilist.co/manga/98456"
       },
       {
-        "id": 53749,
-        "title": {
-          "romaji": "Dongri Tonghua",
-          "english": null,
-          "native": "冬日童话"
-        },
-        "description": "A story about a snow princess created by humans.",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53749-1j9cYzZm5z9J.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53749-1j9cYzZm5z9J.jpg"
-        },
-        "genres": [
-          "Fantasy"
-        ],
-        "status": "FINISHED",
-        "format": "ONE_SHOT",
-        "countryOfOrigin": "CN",
-        "startDate": {
-          "year": 2001,
-          "month": null,
-          "day": null
-        },
-        "chapters": 1,
-        "volumes": null,
-        "averageScore": 53,
-        "siteUrl": "https://anilist.co/manga/53749"
-      },
-      {
         "id": 111021,
         "title": {
           "romaji": "Hai Zi",
@@ -4712,6 +4684,34 @@
         "volumes": null,
         "averageScore": 60,
         "siteUrl": "https://anilist.co/manga/111021"
+      },
+      {
+        "id": 53749,
+        "title": {
+          "romaji": "Dongri Tonghua",
+          "english": null,
+          "native": "冬日童话"
+        },
+        "description": "A story about a snow princess created by humans.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53749-1j9cYzZm5z9J.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53749-1j9cYzZm5z9J.jpg"
+        },
+        "genres": [
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2001,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 53,
+        "siteUrl": "https://anilist.co/manga/53749"
       },
       {
         "id": 44712,
