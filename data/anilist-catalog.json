@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T21:52:12.706439+00:00",
+  "fetched_at": "2026-10-23T21:35:52.983458+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -2061,7 +2061,7 @@
         },
         "chapters": 125,
         "volumes": null,
-        "averageScore": 77,
+        "averageScore": 76,
         "siteUrl": "https://anilist.co/manga/112378"
       },
       {
@@ -4508,7 +4508,7 @@
         },
         "chapters": 1,
         "volumes": null,
-        "averageScore": 59,
+        "averageScore": 58,
         "siteUrl": "https://anilist.co/manga/121203"
       },
       {
@@ -5061,6 +5061,34 @@
         "siteUrl": "https://anilist.co/manga/55309"
       },
       {
+        "id": 41160,
+        "title": {
+          "romaji": "Gong Bao Ji Ding",
+          "english": null,
+          "native": "宫保鸡丁"
+        },
+        "description": "A simple, wordless oneshot about a man being hitted on by a woman in his dreams.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11160.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11160.jpg"
+        },
+        "genres": [
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2004,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/41160"
+      },
+      {
         "id": 184247,
         "title": {
           "romaji": "Yun Mo Jian Xin",
@@ -5090,34 +5118,6 @@
         "volumes": null,
         "averageScore": null,
         "siteUrl": "https://anilist.co/manga/184247"
-      },
-      {
-        "id": 41160,
-        "title": {
-          "romaji": "Gong Bao Ji Ding",
-          "english": null,
-          "native": "宫保鸡丁"
-        },
-        "description": "A simple, wordless oneshot about a man being hitted on by a woman in his dreams.",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11160.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11160.jpg"
-        },
-        "genres": [
-          "Fantasy"
-        ],
-        "status": "FINISHED",
-        "format": "ONE_SHOT",
-        "countryOfOrigin": "CN",
-        "startDate": {
-          "year": 2004,
-          "month": null,
-          "day": null
-        },
-        "chapters": 1,
-        "volumes": null,
-        "averageScore": null,
-        "siteUrl": "https://anilist.co/manga/41160"
       },
       {
         "id": 134379,
