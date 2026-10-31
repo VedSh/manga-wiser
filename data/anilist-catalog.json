@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T22:36:18.427768+00:00",
+  "fetched_at": "2026-10-31T21:48:52.083614+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -953,9 +953,7 @@
         "genres": [
           "Action",
           "Adventure",
-          "Drama",
-          "Fantasy",
-          "Supernatural"
+          "Fantasy"
         ],
         "status": "RELEASING",
         "format": "MANGA",
@@ -1847,7 +1845,7 @@
         },
         "chapters": 460,
         "volumes": null,
-        "averageScore": 72,
+        "averageScore": 71,
         "siteUrl": "https://anilist.co/manga/107966"
       },
       {
@@ -2373,7 +2371,7 @@
         },
         "chapters": 334,
         "volumes": 26,
-        "averageScore": 85,
+        "averageScore": 86,
         "siteUrl": "https://anilist.co/manga/85470"
       },
       {
