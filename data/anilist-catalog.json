@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-01T22:16:18.097034+00:00",
+  "fetched_at": "2026-11-03T01:10:55.337295+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -1845,7 +1845,7 @@
         },
         "chapters": 460,
         "volumes": null,
-        "averageScore": 71,
+        "averageScore": 72,
         "siteUrl": "https://anilist.co/manga/107966"
       },
       {
@@ -2534,7 +2534,7 @@
         },
         "chapters": 168,
         "volumes": 18,
-        "averageScore": 85,
+        "averageScore": 86,
         "siteUrl": "https://anilist.co/manga/70171"
       },
       {
@@ -2826,8 +2826,8 @@
         },
         "description": "A dropout from an elite Houston-based program for teens is on a visit to a private island. Its mistress, virtually marooned there, surrounds herself with geniuses, especially of the young and female kind—one of whom ends up headless one fine morning.\n<br><br>\n(Source: Kodansha USA)",
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39726-L3YnCwitbJdE.png",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39726-L3YnCwitbJdE.png"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39726-cEbU6ngfRuz4.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39726-cEbU6ngfRuz4.jpg"
         },
         "genres": [
           "Action",
