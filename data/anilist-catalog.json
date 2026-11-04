@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T23:36:27.669069+00:00",
+  "fetched_at": "2026-11-04T23:53:11.038464+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -1330,6 +1330,36 @@
         "siteUrl": "https://anilist.co/manga/159441"
       },
       {
+        "id": 132144,
+        "title": {
+          "romaji": "Hwasangwihwan",
+          "english": "Return of the Blossoming Blade",
+          "native": "화산귀환"
+        },
+        "description": "When Cheong-Myeong of the Mount Hua Sect awakens a hundred years in the future, his last memories are of a bloody battle against the Leader of the Demonic Cult, the evil Cheon-Ma. The battle almost saw the end of the Ten Great Sects of ancient China, when Cheong-Myeong ended the hard-fought struggle by striking down Cheon-Ma. Soon after, he succumbed to his wounds, filled with regret at their pyrrhic victory. All is not lost, however, as he awakens to his second chance at life. Shocked to find his beloved Mount Hua Sect reduced to a mere shadow of itself in the present day, Cheong-Myeong embarks on a journey to restore Mount Hua to its former glory.<br>\n<br>\n(Source: WEBTOON, edited)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132144-i5B4VnG9sRgh.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132144-i5B4VnG9sRgh.png"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "status": "RELEASING",
+        "format": "MANGA",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2021,
+          "month": 3,
+          "day": 23
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 85,
+        "siteUrl": "https://anilist.co/manga/132144"
+      },
+      {
         "id": 123573,
         "title": {
           "romaji": "Baekjakgaui Mangnaniga Doeeotda",
@@ -1359,36 +1389,6 @@
         "volumes": null,
         "averageScore": 78,
         "siteUrl": "https://anilist.co/manga/123573"
-      },
-      {
-        "id": 132144,
-        "title": {
-          "romaji": "Hwasangwihwan",
-          "english": "Return of the Blossoming Blade",
-          "native": "화산귀환"
-        },
-        "description": "When Cheong-Myeong of the Mount Hua Sect awakens a hundred years in the future, his last memories are of a bloody battle against the Leader of the Demonic Cult, the evil Cheon-Ma. The battle almost saw the end of the Ten Great Sects of ancient China, when Cheong-Myeong ended the hard-fought struggle by striking down Cheon-Ma. Soon after, he succumbed to his wounds, filled with regret at their pyrrhic victory. All is not lost, however, as he awakens to his second chance at life. Shocked to find his beloved Mount Hua Sect reduced to a mere shadow of itself in the present day, Cheong-Myeong embarks on a journey to restore Mount Hua to its former glory.<br>\n<br>\n(Source: WEBTOON, edited)",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132144-i5B4VnG9sRgh.png",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132144-i5B4VnG9sRgh.png"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "status": "RELEASING",
-        "format": "MANGA",
-        "countryOfOrigin": "KR",
-        "startDate": {
-          "year": 2021,
-          "month": 3,
-          "day": 23
-        },
-        "chapters": null,
-        "volumes": null,
-        "averageScore": 85,
-        "siteUrl": "https://anilist.co/manga/132144"
       },
       {
         "id": 119174,
