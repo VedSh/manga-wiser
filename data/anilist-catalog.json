@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T23:48:09.094947+00:00",
+  "fetched_at": "2026-11-06T23:25:47.855296+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -3397,34 +3397,6 @@
         "siteUrl": "https://anilist.co/manga/112978"
       },
       {
-        "id": 34941,
-        "title": {
-          "romaji": "DEATH NOTE C-Kira-hen",
-          "english": "Death Note: C-Kira",
-          "native": "DEATH NOTE Cキラ編"
-        },
-        "description": "A one-chapter sequel of the Death Note manga which tells what happened 3 years after it all ended.  The chapter was later published in volume format as a bonus in the Death Note: All-in-One Edition, then later in the volume “Death Note: Tanpenshuu”.",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34941-PyMwAPm58T8m.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34941-PyMwAPm58T8m.jpg"
-        },
-        "genres": [
-          "Mystery"
-        ],
-        "status": "FINISHED",
-        "format": "ONE_SHOT",
-        "countryOfOrigin": "JP",
-        "startDate": {
-          "year": 2007,
-          "month": 7,
-          "day": 2
-        },
-        "chapters": 1,
-        "volumes": null,
-        "averageScore": 66,
-        "siteUrl": "https://anilist.co/manga/34941"
-      },
-      {
         "id": 105684,
         "title": {
           "romaji": "Machigatteita no wa Ore Dattan da.",
@@ -3454,6 +3426,34 @@
         "volumes": null,
         "averageScore": 70,
         "siteUrl": "https://anilist.co/manga/105684"
+      },
+      {
+        "id": 34941,
+        "title": {
+          "romaji": "DEATH NOTE C-Kira-hen",
+          "english": "Death Note: C-Kira",
+          "native": "DEATH NOTE Cキラ編"
+        },
+        "description": "A one-chapter sequel of the Death Note manga which tells what happened 3 years after it all ended.  The chapter was later published in volume format as a bonus in the Death Note: All-in-One Edition, then later in the volume “Death Note: Tanpenshuu”.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34941-PyMwAPm58T8m.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34941-PyMwAPm58T8m.jpg"
+        },
+        "genres": [
+          "Mystery"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2007,
+          "month": 7,
+          "day": 2
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 66,
+        "siteUrl": "https://anilist.co/manga/34941"
       },
       {
         "id": 86813,
@@ -4274,6 +4274,36 @@
         "siteUrl": "https://anilist.co/manga/123205"
       },
       {
+        "id": 121337,
+        "title": {
+          "romaji": "Agineun Akdangeul Kiunda",
+          "english": null,
+          "native": "아기는 악당을 키운다"
+        },
+        "description": "Lablaine had already lived her life three times, and was now living it again. Due to a misinterpretation of an oracle, she had been raised as a \"Child of Fate\" and was asked to choose a guardian. During the first time she lived her life, she lived in a strict knight's household, but when the real \"Child of Fate\" appeared, she was sacrificed as a scapegoat for them. During the second time, she was abused by an outwardly respectable scholar; the third time, she ran away and lived as a beggar. Since the country seems to not be safe for her, she decided to leave it this time. To that end she chose …a family of the biggest and coldest villains in the kingdom. She just tried to get along with them for the time being, but her family has turned out to be absurdly overprotective and doting?!\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121337-Xi9Ws1AfanyR.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121337-Xi9Ws1AfanyR.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 10,
+          "day": 18
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 63,
+        "siteUrl": "https://anilist.co/manga/121337"
+      },
+      {
         "id": 123213,
         "title": {
           "romaji": "Agnyeo Maker",
@@ -4390,36 +4420,6 @@
         "volumes": null,
         "averageScore": 64,
         "siteUrl": "https://anilist.co/manga/121633"
-      },
-      {
-        "id": 121337,
-        "title": {
-          "romaji": "Agineun Akdangeul Kiunda",
-          "english": null,
-          "native": "아기는 악당을 키운다"
-        },
-        "description": "Lablaine had already lived her life three times, and was now living it again. Due to a misinterpretation of an oracle, she had been raised as a \"Child of Fate\" and was asked to choose a guardian. During the first time she lived her life, she lived in a strict knight's household, but when the real \"Child of Fate\" appeared, she was sacrificed as a scapegoat for them. During the second time, she was abused by an outwardly respectable scholar; the third time, she ran away and lived as a beggar. Since the country seems to not be safe for her, she decided to leave it this time. To that end she chose …a family of the biggest and coldest villains in the kingdom. She just tried to get along with them for the time being, but her family has turned out to be absurdly overprotective and doting?!\n",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121337-Xi9Ws1AfanyR.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121337-Xi9Ws1AfanyR.jpg"
-        },
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama"
-        ],
-        "status": "FINISHED",
-        "format": "ONE_SHOT",
-        "countryOfOrigin": "KR",
-        "startDate": {
-          "year": 2019,
-          "month": 10,
-          "day": 18
-        },
-        "chapters": 1,
-        "volumes": null,
-        "averageScore": 63,
-        "siteUrl": "https://anilist.co/manga/121337"
       },
       {
         "id": 201721,
