@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T23:25:47.855296+00:00",
+  "fetched_at": "2026-11-07T22:14:16.472677+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -1356,7 +1356,7 @@
         },
         "chapters": null,
         "volumes": null,
-        "averageScore": 84,
+        "averageScore": 85,
         "siteUrl": "https://anilist.co/manga/132144"
       },
       {
@@ -2534,7 +2534,7 @@
         },
         "chapters": 168,
         "volumes": 18,
-        "averageScore": 86,
+        "averageScore": 85,
         "siteUrl": "https://anilist.co/manga/70171"
       },
       {
@@ -4447,7 +4447,7 @@
         },
         "chapters": 1,
         "volumes": null,
-        "averageScore": 58,
+        "averageScore": 59,
         "siteUrl": "https://anilist.co/manga/201721"
       },
       {
