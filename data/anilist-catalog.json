@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T01:44:36.090048+00:00",
+  "fetched_at": "2026-11-10T23:39:07.749176+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -752,34 +752,35 @@
         "siteUrl": "https://anilist.co/manga/30001"
       },
       {
-        "id": 97852,
+        "id": 117195,
         "title": {
-          "romaji": "Komi-san wa, Komyushou desu.",
-          "english": "Komi Can't Communicate",
-          "native": "古見さんは、コミュ症です。"
+          "romaji": "[Oshi no Ko]",
+          "english": "[Oshi no Ko]",
+          "native": "【推しの子】"
         },
-        "description": "Timid Tadano is a total wallflower, and that’s just the way he likes it. But all that changes when he finds himself alone in a classroom on the first day of high school with the legendary Komi. He quickly realizes she isn’t aloof—she’s just super awkward. Now he’s made it his mission to help her on her quest to make 100 friends!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the 67th Shogakukan Manga Award in the Shounen Category in 2021.<br>\n- Includes 37 extra chapters.</i>",
+        "description": "Gorou is a gynecologist and idol fan who’s in shock after his favorite star, Ai, announces an impromptu hiatus. Little does Gorou realize that he’s about to forge a bond with her that defies all common sense! Lies are an idol’s weapon! \n<br><br>\n(Source: Yen Press)\n<br><br>\n<i>Notes:<br>\n- Nominated for the 14th and 15th Manga Taisho, the 26th Tezuka Osamu Cultural Prize, the 67th Shogakukan Manga Award in the general category and the 46th Kodansha Manga Award.<br>\n- Winner of the 7th Next Manga Award in the print category.<br>\n- Includes \"[Oshi no Ko]: interlude\" and one extra chapter.</i>",
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97852-M7vlc2OGR2gp.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97852-M7vlc2OGR2gp.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117195-r3kf8eF0xkDJ.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117195-r3kf8eF0xkDJ.png"
         },
         "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
+          "Drama",
+          "Mystery",
+          "Psychological",
+          "Supernatural"
         ],
         "status": "FINISHED",
         "format": "MANGA",
         "countryOfOrigin": "JP",
         "startDate": {
-          "year": 2016,
-          "month": 5,
-          "day": 18
+          "year": 2020,
+          "month": 4,
+          "day": 23
         },
-        "chapters": 537,
-        "volumes": 37,
+        "chapters": 171,
+        "volumes": 16,
         "averageScore": 77,
-        "siteUrl": "https://anilist.co/manga/97852"
+        "siteUrl": "https://anilist.co/manga/117195"
       }
     ],
     "manhwa": [
@@ -2534,7 +2535,7 @@
         },
         "chapters": 168,
         "volumes": 18,
-        "averageScore": 85,
+        "averageScore": 86,
         "siteUrl": "https://anilist.co/manga/70171"
       },
       {
@@ -4539,19 +4540,18 @@
         "siteUrl": "https://anilist.co/manga/127072"
       },
       {
-        "id": 131215,
+        "id": 118938,
         "title": {
-          "romaji": "Akdangman Chwigeupamnida",
+          "romaji": "Agi Hwanghunim",
           "english": null,
-          "native": "악당만 취급합니다"
+          "native": "아기 황후님"
         },
-        "description": "<i>Note: This is a promotional one-shot for the web novel of the same name.</i>",
+        "description": "The child of a prophecy is born to save the world. <i>\"I need to get married to save people...? I'll do the marriage!\"</i> The emperor is a young and innocent boy. But... My father interfered with my marriage!  <i>\"I can't give you my daughter! She will not be becoming empress.\"</i> <i>\"Is my sister just a toy to you?\"</i> And my brother too! <br><br>\nWill I be able to save the world? \n<br><br>\n<b>Note:</b> This is a one-shot promotional manhwa for the novel of the same name.",
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131215-OLzAzQXabTkn.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131215-OLzAzQXabTkn.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118938-WWmEnoKI4GAr.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118938-WWmEnoKI4GAr.jpg"
         },
         "genres": [
-          "Drama",
           "Fantasy",
           "Romance"
         ],
@@ -4559,14 +4559,14 @@
         "format": "ONE_SHOT",
         "countryOfOrigin": "KR",
         "startDate": {
-          "year": 2021,
-          "month": 1,
-          "day": 2
+          "year": 2020,
+          "month": 4,
+          "day": 22
         },
         "chapters": 1,
         "volumes": null,
-        "averageScore": 68,
-        "siteUrl": "https://anilist.co/manga/131215"
+        "averageScore": 62,
+        "siteUrl": "https://anilist.co/manga/118938"
       },
       {
         "id": 86223,
