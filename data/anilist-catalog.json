@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T01:12:25.277758+00:00",
+  "fetched_at": "2026-11-19T00:40:59.589561+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -2122,7 +2122,7 @@
         },
         "chapters": null,
         "volumes": null,
-        "averageScore": 79,
+        "averageScore": 80,
         "siteUrl": "https://anilist.co/manga/154159"
       },
       {
@@ -3314,7 +3314,7 @@
           "english": "Bleach: Special One-Shot",
           "native": "BLEACH 獄頤鳴鳴篇"
         },
-        "description": "A new one-shot to celebrate Bleach's 20th anniversary.",
+        "description": "A new one-shot to celebrate Bleach's 20th anniversary.<Br><br>\n<i>Note: Published in Weekly Shounen Jump 2021 issue 36/37.</i>",
         "coverImage": {
           "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137620-iUpSBs33kQOY.jpg",
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137620-iUpSBs33kQOY.jpg"
@@ -4213,7 +4213,7 @@
         },
         "chapters": 1,
         "volumes": null,
-        "averageScore": 66,
+        "averageScore": 65,
         "siteUrl": "https://anilist.co/manga/121110"
       },
       {
@@ -4242,7 +4242,7 @@
         },
         "chapters": 1,
         "volumes": null,
-        "averageScore": 63,
+        "averageScore": 62,
         "siteUrl": "https://anilist.co/manga/123080"
       },
       {
@@ -4540,33 +4540,36 @@
         "siteUrl": "https://anilist.co/manga/127072"
       },
       {
-        "id": 118938,
+        "id": 129581,
         "title": {
-          "romaji": "Agi Hwanghunim",
+          "romaji": "Chongaereul Geojeolhaneunde Wae Jipchakanayo",
           "english": null,
-          "native": "아기 황후님"
+          "native": "총애를 거절하는데 왜 집착하나요"
         },
-        "description": "The child of a prophecy is born to save the world. <i>\"I need to get married to save people...? I'll do the marriage!\"</i> The emperor is a young and innocent boy. But... My father interfered with my marriage!  <i>\"I can't give you my daughter! She will not be becoming empress.\"</i> <i>\"Is my sister just a toy to you?\"</i> And my brother too! <br><br>\nWill I be able to save the world? \n<br><br>\n<b>Note:</b> This is a one-shot promotional manhwa for the novel of the same name.",
+        "description": "The extra who sacrifices herself for the beloved female lead. Princess Shuelina who is tossed aside by her biologically related father and older brother. Now I’m the main character of this odd situation. In regards to hope, I’m still neglected at this orphanage. Just as I was going to run away before the imperial family found me–\n<br><br>\n<i>“Did you hear? The House of Grand Duke Vailot came to sponsor an orphan.”</i>\n<br><br>\nTo find a way to live, I threw myself at the villain's family, the Grand Duke’s, and-\n<br><br>\n<i>“You can do whatever you want. I, as the Grand Duke, will protect you.”</i>\n<br><br>\n<i>“You’re not an orphan. You’re my younger sister.”</i>\n<br><br>\nWhy do they love me?\n<br><br>\nJust as I made up my mind to live well since I'd already become a lady of the House of Grand Duke Vailot...\n<br><br>\n<i>\"I have searched for you for a long time, my child.\"</i>\n<br><br>\nThis time my biologically related father, the Emperor loves me. Why are you acting like this? I said, I don't need you guys who wouldn't have listened to what Shuelina had to say. I refuse to accept your love!\n<br><br>(Source: KakaoPage, translated)<br><br>\n<i>Note: Promotional prologue for the homonym web novel.</i>",
         "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118938-WWmEnoKI4GAr.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118938-WWmEnoKI4GAr.jpg"
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129581-iU147VBi438b.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129581-iU147VBi438b.jpg"
         },
         "genres": [
+          "Comedy",
+          "Drama",
           "Fantasy",
-          "Romance"
+          "Slice of Life",
+          "Supernatural"
         ],
         "status": "FINISHED",
         "format": "ONE_SHOT",
         "countryOfOrigin": "KR",
         "startDate": {
           "year": 2020,
-          "month": 4,
-          "day": 22
+          "month": 10,
+          "day": 16
         },
         "chapters": 1,
         "volumes": null,
-        "averageScore": 62,
-        "siteUrl": "https://anilist.co/manga/118938"
+        "averageScore": 65,
+        "siteUrl": "https://anilist.co/manga/129581"
       },
       {
         "id": 86223,
