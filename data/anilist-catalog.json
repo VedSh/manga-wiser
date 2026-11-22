@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T23:32:44.159995+00:00",
+  "fetched_at": "2026-11-22T23:45:25.031644+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -1177,7 +1177,7 @@
         },
         "chapters": null,
         "volumes": null,
-        "averageScore": 81,
+        "averageScore": 80,
         "siteUrl": "https://anilist.co/manga/120980"
       },
       {
