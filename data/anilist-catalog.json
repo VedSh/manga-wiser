@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T23:45:25.031644+00:00",
+  "fetched_at": "2026-11-24T04:02:20.338724+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -1177,7 +1177,7 @@
         },
         "chapters": null,
         "volumes": null,
-        "averageScore": 80,
+        "averageScore": 81,
         "siteUrl": "https://anilist.co/manga/120980"
       },
       {
@@ -1271,6 +1271,35 @@
         "siteUrl": "https://anilist.co/manga/159441"
       },
       {
+        "id": 163824,
+        "title": {
+          "romaji": "Cheolhyeolgeomga Sanyanggaeui Hoegwi",
+          "english": "Revenge of the Baskerville Bloodhound",
+          "native": "철혈검가 사냥개의 회귀"
+        },
+        "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx163824-KiablxybJD6i.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg"
+        },
+        "genres": [
+          "Action",
+          "Fantasy"
+        ],
+        "status": "RELEASING",
+        "format": "MANGA",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2023,
+          "month": 4,
+          "day": 14
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 79,
+        "siteUrl": "https://anilist.co/manga/163824"
+      },
+      {
         "id": 86848,
         "title": {
           "romaji": "Oemo Jisangjuui",
@@ -1302,35 +1331,6 @@
         "siteUrl": "https://anilist.co/manga/86848"
       },
       {
-        "id": 163824,
-        "title": {
-          "romaji": "Cheolhyeolgeomga Sanyanggaeui Hoegwi",
-          "english": "Revenge of the Baskerville Bloodhound",
-          "native": "철혈검가 사냥개의 회귀"
-        },
-        "description": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.\n<br><br>(Source: Tapas)",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx163824-KiablxybJD6i.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg"
-        },
-        "genres": [
-          "Action",
-          "Fantasy"
-        ],
-        "status": "RELEASING",
-        "format": "MANGA",
-        "countryOfOrigin": "KR",
-        "startDate": {
-          "year": 2023,
-          "month": 4,
-          "day": 14
-        },
-        "chapters": null,
-        "volumes": null,
-        "averageScore": 79,
-        "siteUrl": "https://anilist.co/manga/163824"
-      },
-      {
         "id": 132144,
         "title": {
           "romaji": "Hwasangwihwan",
@@ -1357,7 +1357,7 @@
         },
         "chapters": null,
         "volumes": null,
-        "averageScore": 84,
+        "averageScore": 85,
         "siteUrl": "https://anilist.co/manga/132144"
       },
       {
