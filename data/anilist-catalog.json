@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T01:54:59.956337+00:00",
+  "fetched_at": "2026-11-27T01:53:09.623687+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -1939,7 +1939,7 @@
         },
         "chapters": 106,
         "volumes": null,
-        "averageScore": 71,
+        "averageScore": 70,
         "siteUrl": "https://anilist.co/manga/138366"
       },
       {
@@ -2064,37 +2064,6 @@
         "siteUrl": "https://anilist.co/manga/112378"
       },
       {
-        "id": 108984,
-        "title": {
-          "romaji": "Quanzhi Fashi",
-          "english": "Versatile Mage",
-          "native": "全职法师"
-        },
-        "description": "Our hero, Mo Fan, inherits a magical necklace—the next day, he wakes up to find that the world has changed. His high school now teaches magic, and students are encouraged to try and become accomplished magicians. A world that ran on science now runs on magic. However, some things are still the same. He still has a teacher who sees him as a hopeless student, classmates who look the same, a father who struggles to make ends meet, and a not-by-blood little sister who can't walk on her own.<br>\nHowever, Mo Fan discovers that the vast majority of magicians can only harness one element of magic. As luck would have it, however, he is an exception—a versatile mage!<br><br>(Source: WebNovel)",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108984-rVC5mS3vIp2u.png",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108984-rVC5mS3vIp2u.png"
-        },
-        "genres": [
-          "Action",
-          "Comedy",
-          "Drama",
-          "Fantasy"
-        ],
-        "status": "CANCELLED",
-        "format": "MANGA",
-        "countryOfOrigin": "CN",
-        "startDate": {
-          "year": 2018,
-          "month": 1,
-          "day": 1
-        },
-        "chapters": 1181,
-        "volumes": null,
-        "averageScore": 66,
-        "siteUrl": "https://anilist.co/manga/108984"
-      },
-      {
         "id": 167372,
         "title": {
           "romaji": "Siling Fashi! Wo Ji Shi Tianzai",
@@ -2124,6 +2093,37 @@
         "volumes": null,
         "averageScore": 72,
         "siteUrl": "https://anilist.co/manga/167372"
+      },
+      {
+        "id": 108984,
+        "title": {
+          "romaji": "Quanzhi Fashi",
+          "english": "Versatile Mage",
+          "native": "全职法师"
+        },
+        "description": "Our hero, Mo Fan, inherits a magical necklace—the next day, he wakes up to find that the world has changed. His high school now teaches magic, and students are encouraged to try and become accomplished magicians. A world that ran on science now runs on magic. However, some things are still the same. He still has a teacher who sees him as a hopeless student, classmates who look the same, a father who struggles to make ends meet, and a not-by-blood little sister who can't walk on her own.<br>\nHowever, Mo Fan discovers that the vast majority of magicians can only harness one element of magic. As luck would have it, however, he is an exception—a versatile mage!<br><br>(Source: WebNovel)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108984-rVC5mS3vIp2u.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108984-rVC5mS3vIp2u.png"
+        },
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ],
+        "status": "CANCELLED",
+        "format": "MANGA",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2018,
+          "month": 1,
+          "day": 1
+        },
+        "chapters": 1181,
+        "volumes": null,
+        "averageScore": 66,
+        "siteUrl": "https://anilist.co/manga/108984"
       },
       {
         "id": 154159,
