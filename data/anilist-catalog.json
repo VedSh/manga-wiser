@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T01:53:09.623687+00:00",
+  "fetched_at": "2026-11-28T01:36:11.645184+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -2095,6 +2095,37 @@
         "siteUrl": "https://anilist.co/manga/167372"
       },
       {
+        "id": 154159,
+        "title": {
+          "romaji": "Zhe Ge Hun Fanzheng Ye Yao Wandan",
+          "english": "The Broken Ring: This Marriage Will Fail Anyway",
+          "native": "这个婚反正也要完蛋"
+        },
+        "description": "When six-year-old Inés laid eyes on the handsome heir to House Escalante, she promptly made the boy her fiancé. Since noble men are all the same, she figured she might as well choose a pretty one. But Lord Cárcel isn't ready for this sort of commitment just yet, and he spends the next decade and a half avoiding the marriage at all costs! Luckily, that's no trouble for Inés, as this marriage failing is exactly what she wants. In fact, he has her blessing to sow his wild oats as long as he stays out of her business. Unfortunately, being a playboy isn't as fun when your fiancée gives you permission. And doesn't this mean she's cheating on him too? Now, Cárcel is determined to change Inés' mind about him and prove he can be the husband she's always wanted.\n<BR><BR>\n(Source: Tappytoon)\n<br><br>\n<I>Note: First released in English, with the initial eligible release in Chinese followed by Korean, making it a manhua by AniList standards.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx154159-gppMB0osgXMa.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154159-gppMB0osgXMa.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Psychological",
+          "Romance"
+        ],
+        "status": "RELEASING",
+        "format": "MANGA",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2022,
+          "month": 6,
+          "day": 30
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 80,
+        "siteUrl": "https://anilist.co/manga/154159"
+      },
+      {
         "id": 108984,
         "title": {
           "romaji": "Quanzhi Fashi",
@@ -2124,37 +2155,6 @@
         "volumes": null,
         "averageScore": 66,
         "siteUrl": "https://anilist.co/manga/108984"
-      },
-      {
-        "id": 154159,
-        "title": {
-          "romaji": "Zhe Ge Hun Fanzheng Ye Yao Wandan",
-          "english": "The Broken Ring: This Marriage Will Fail Anyway",
-          "native": "这个婚反正也要完蛋"
-        },
-        "description": "When six-year-old Inés laid eyes on the handsome heir to House Escalante, she promptly made the boy her fiancé. Since noble men are all the same, she figured she might as well choose a pretty one. But Lord Cárcel isn't ready for this sort of commitment just yet, and he spends the next decade and a half avoiding the marriage at all costs! Luckily, that's no trouble for Inés, as this marriage failing is exactly what she wants. In fact, he has her blessing to sow his wild oats as long as he stays out of her business. Unfortunately, being a playboy isn't as fun when your fiancée gives you permission. And doesn't this mean she's cheating on him too? Now, Cárcel is determined to change Inés' mind about him and prove he can be the husband she's always wanted.\n<BR><BR>\n(Source: Tappytoon)\n<br><br>\n<I>Note: First released in English, with the initial eligible release in Chinese followed by Korean, making it a manhua by AniList standards.</i>",
-        "coverImage": {
-          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx154159-gppMB0osgXMa.jpg",
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154159-gppMB0osgXMa.jpg"
-        },
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Psychological",
-          "Romance"
-        ],
-        "status": "RELEASING",
-        "format": "MANGA",
-        "countryOfOrigin": "CN",
-        "startDate": {
-          "year": 2022,
-          "month": 6,
-          "day": 30
-        },
-        "chapters": null,
-        "volumes": null,
-        "averageScore": 79,
-        "siteUrl": "https://anilist.co/manga/154159"
       },
       {
         "id": 154258,
